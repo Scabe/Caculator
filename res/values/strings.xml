@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CaculatorDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <drawable name="clr_normal">#ffffff</drawable>
+ 	<drawable name="clr_pressed">#CDC9A5</drawable>
+    
+ 	<drawable name="clr2_normal">#FFA500</drawable>
+ 	<drawable name="clr2_pressed">#A0522D</drawable>
+ 	
+</resources>
